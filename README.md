@@ -318,7 +318,7 @@ A **idealização do projeto**, as **regras de negócio** e as **decisões finai
 
 ## 📄 Licença
 
-Este projeto é de uso privado, desenvolvido especificamente para a **Associação iTuto de Assistência Social**.
+Este projeto é de uso privado, desenvolvido especificamente para **Associações e Institutos Sociais**.
 
 ---
 
