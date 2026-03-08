@@ -2,7 +2,7 @@
 
 # 🏥 iTuto — Sistema ERP para Instituições Sociais
 
-**Sistema de gestão completo desenvolvido para a Associação iTuto de Assistência Social**
+**Sistema de gestão completo desenvolvido para **Associações e Institutos Sociais**
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
