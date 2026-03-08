@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🏥 iTuto — Sistema ERP para Instituições Sociais
 
@@ -329,4 +329,4 @@ Este projeto é de uso privado, desenvolvido especificamente para a **Associaç�
 *Com o auxílio de Inteligência Artificial*
 
 </div>
-]]>
+
